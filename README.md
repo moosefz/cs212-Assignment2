@@ -20,3 +20,4 @@ Program provides a console interface that allows users to:
 	Exit
 	
 Compile and run NewStore.java for full functionality.
+
